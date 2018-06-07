@@ -20,7 +20,7 @@ I support all the original Markdown syntaxes. But I can do so much more! Various
 
 You can specify extra HTML rendering options through the [**Rendering** preference pane](#rendering-pane).
 
-You can customize the editor window to you liking in the [**Editor** preferences pane](#editor-pane):
+You can customize the editor window to your liking in the [**Editor** preferences pane](#editor-pane):
 
 You can configure various application (that's me!) behaviors in the [**General** preference pane](#general-pane).
 
